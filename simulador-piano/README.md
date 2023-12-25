@@ -4,7 +4,7 @@
 
 Este é o projeto do "Piano Virtual", desenvolvido com HTML, CSS e JavaScript durante o Bootcamp "Potência Tech - Desenvolvimento de Jogos", disponibilizado pela DIO em parceria com o iFood. O objetivo deste projeto é criar um piano virtual interativo com 17 teclas que emitem diferentes sons quando clicadas. Além disso, os usuários podem tocar as teclas do piano usando o teclado do computador. O piano também possui um controle deslizante para ajustar o volume e permite mostrar ou esconder as teclas para uma experiência visual mais limpa.
 
-O projeto pode ser acessado aqui 👉 https://camilafbc.github.io/simulador-piano/
+O projeto pode ser acessado aqui 👉 https://camilafbc-piano-virtual.netlify.app/
 
 ## Visão Geral
 
@@ -25,7 +25,7 @@ O "Piano Virtual" oferece uma experiência interativa para os amantes da música
 
 ## Instruções de Uso
 
-1. Acesse o piano virtual através deste link: [Piano Virtual](https://camilafbc.github.io/simulador-piano/).
+1. Acesse o piano virtual através deste link: [Piano Virtual](https://camilafbc-piano-virtual.netlify.app/).
 2. Clique nas teclas para tocar as notas musicais.
 3. Use o teclado do computador para tocar as teclas virtuais correspondentes.
 4. Utilize o controle deslizante para ajustar o volume do piano.
