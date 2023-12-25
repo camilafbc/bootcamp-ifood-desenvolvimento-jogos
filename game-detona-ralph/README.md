@@ -6,7 +6,7 @@
 
 Este é o projeto "Detona Ralph", um jogo desenvolvido durante o Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos" disponibilizado pela DIO em parceria com o iFood. O jogo foi criado com HTML, CSS e JavaScript e oferece uma experiência divertida e desafiadora.
 
-O projeto pode ser acessado aqui 👉 https://camilafbc.github.io/game-detona-ralph/
+O projeto pode ser acessado aqui 👉 https://bootcamp-ifood-desenvolvimento-jogos.vercel.app/
 
 ## Visão Geral
 
@@ -29,7 +29,7 @@ O "Detona Ralph" é um jogo web que coloca os jogadores em uma tela com vários 
 
 ## Instruções de Uso
 
-1. Acesse o jogo através deste link: [Detona Ralph](https://camilafbc.github.io/game-detona-ralph/).
+1. Acesse o jogo através deste link: [Detona Ralph](https://bootcamp-ifood-desenvolvimento-jogos.vercel.app/).
 2. Clique em PLAY para iniciar.
 3. Clique na janela onde você acredita que Ralph está para marcar pontos.
 4. Você tem 3 vidas para somar o máximo de pontos.
