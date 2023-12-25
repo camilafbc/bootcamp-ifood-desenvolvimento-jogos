@@ -6,7 +6,7 @@
 
 Este é o projeto do "Jogo da Memória", desenvolvido com HTML, CSS e JavaScript durante o Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos", disponibilizado pela DIO em parceria com o iFood. O objetivo deste projeto é trabalhar conceitos de estilização, lógica e manipulação da DOM, gerando elementos de forma dinâmica.
 
-O projeto pode ser acessado aqui 👉 https://camilafbc.github.io/memory-game/
+O projeto pode ser acessado aqui 👉 https://camilafbc-memory-game.netlify.app/
 
 ## Visão Geral
 
@@ -28,7 +28,7 @@ O "Jogo da Memória" é um desafio divertido que coloca o jogador diante de 16 c
 
 ## Instruções de Uso
 
-1. Acesse o jogo através deste link: [Jogo da Memória](https://camilafbc.github.io/memory-game/).
+1. Acesse o jogo através deste link: [Jogo da Memória](https://camilafbc-memory-game.netlify.app/).
 2. Clique nas cartas para revelar seus pares correspondentes.
 3. Tente encontrar todos os pares no menor tempo possível.
 4. Após encontrar todos os pares, o jogo é encerrado e o tempo é exibido em um modal.
