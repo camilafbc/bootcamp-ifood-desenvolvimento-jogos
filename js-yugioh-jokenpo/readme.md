@@ -6,7 +6,7 @@
 
 Este é o projeto do jogo de "Pedra, Papel e Tesoura" (ou Jo-ken-po) baseado no mundo de cartas do Yu-Gi-Oh. Foi desenvolvido com HTML, CSS e JavaScript durante o Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos", disponibilizado pela DIO em parceria com o iFood. O jogo traz a emocionante experiência do famoso jogo de "Pedra, Papel e Tesoura" em um ambiente inspirado no universo das cartas do Yu-Gi-Oh.
 
-O projeto pode ser acessado aqui 👉 https://camilafbc.github.io/js-yugioh-jokenpo/
+O projeto pode ser acessado aqui 👉 https://bootcamp-ifood-desenvolvimento-jogos-r8bb.vercel.app/
 
 ## Visão Geral
 
@@ -31,7 +31,7 @@ Após o jogador escolher sua carta, o jogo calcula o resultado e exibe um botão
 
 ## Instruções de Uso
 
-1. Acesse o jogo através deste link: [Jogo de "Pedra, Papel e Tesoura" Yu-Gi-Oh!](https://camilafbc.github.io/js-yugioh-jokenpo/).
+1. Acesse o jogo através deste link: [Jogo de "Pedra, Papel e Tesoura" Yu-Gi-Oh!](https://bootcamp-ifood-desenvolvimento-jogos-r8bb.vercel.app/).
 2. Passe o mouse sobre as cartas para visualizar os personagens e atributos associados.
 3. Escolha uma carta para jogar contra o computador.
 4. Após a escolha, o resultado é calculado, e um botão de feedback é exibido.
