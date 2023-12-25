@@ -1,0 +1,117 @@
+:root {
+  --background-gradient: linear-gradient(325deg, #03001e 0%, #7303c0 30%, #ec38bc 80%);
+  --container-background: rgba( 255, 255, 255, 0.25 );
+  --container-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --button-focus-background-color: #262809;
+  --button-focus-text-color: #ec38bc;
+  --item-after-background-color: #404040;
+  --item-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  user-select: none;
+  background: var(--background-gradient);
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 40px 60px;
+  background: var(--container-background);
+  box-shadow: var(--container-box-shadow);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 3.25em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--white-color);
+}
+
+.timer {
+  margin-top: -1em;
+  display: flex;
+  align-items: center;
+  gap: 0.25em;
+  font-size: 1.75em;
+  color: var(--white-color);
+}
+
+.timer > img {
+  width: 30px;
+}
+
+.reset {
+  padding: 1rem 1.25rem;
+  width: 100%;
+  border: none;
+  font-size: 1.5em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  color: var(--black-color);
+  background-color: var(--white-color);
+}
+
+.reset:focus {
+  color: var(--button-focus-text-color);
+  background-color: var(--button-focus-background-color);
+}
+
+.game {
+  width: 430px;
+  height: 430px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  transform-style: preserve-3d;
+  perspective: 500px;
+}
+
+.item {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+  transform: rotateY(180deg);
+  transition: 0.25s;
+  cursor: pointer;
+  background-color: var(--white-color);
+  box-shadow: var(--item-box-shadow);
+}
+
+.item::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transition: 0.25s;
+  transform: rotateY(0deg);
+  backface-visibility: hidden;
+  background-color: var(--item-after-background-color);
+}
+
+.item .boxOpen {
+  transform: rotateY(0deg);
+}
+
+.boxOpen::after,
+.boxMatch::after {
+  transform: rotateY(180deg);
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./images/icons8-memory-game-96.png" type="image/x-icon" />
+    <title>Jogo da Memória</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="./styles/reset.css" />
+    <link rel="stylesheet" href="./styles/main.css" />
+    <!-- SweetAlert -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.32/dist/sweetalert2.min.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>JOGO DA MEMÓRIA</h2>
+      <div class="timer">
+        <img src="./images/icons8-tempo-48.png" alt=""> <span class="timer_minutes">00</span>:<span
+          class="timer_seconds"
+          >00</span
+        >
+      </div>
+      <div class="game"></div>
+      <button class="reset" onclick="window.location.reload()">
+        RESET GAME
+      </button>
+    </div>
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.32/dist/sweetalert2.all.min.js"></script>
+    <script src="./scripts/engine.js"></script>
+  </body>
+</html>
