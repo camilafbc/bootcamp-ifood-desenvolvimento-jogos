@@ -26,33 +26,33 @@ O aprendizado culminou em uma série de projetos práticos, nos quais aplicamos 
 
 <img width="600px" src="https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png"/>
 
-👉 Acesso: 
+👉 Acesso: https://bootcamp-ifood-desenvolvimento-jogos-78km.vercel.app/
 
 ### Jogo da Memória
 
 <img width="600px" src="https://github.com/camilafbc/bootcamp-ifood-desenvolvimento-jogos/blob/main/memory-game/to-readme.gif?raw=true"/>
 
-👉 Acesso: 
+👉 Acesso: https://camilafbc-memory-game.netlify.app/
 
 ### Detona Ralph
 
 <img width="600px" src="https://github.com/camilafbc/bootcamp-ifood-desenvolvimento-jogos/blob/main/game-detona-ralph/to-readme.gif?raw=true"/>
 
-👉 Acesso: 
+👉 Acesso: https://bootcamp-ifood-desenvolvimento-jogos.vercel.app/
 
 ### Simulador de Piano
 
 <img width="600px" src="https://github.com/camilafbc/bootcamp-ifood-desenvolvimento-jogos/blob/main/simulador-piano/to-readme.jpeg?raw=true"/>
 
 
-👉 Acesso: 
+👉 Acesso: https://camilafbc-piano-virtual.netlify.app/
 
 ### Jo Ken Poh - Yu-Gi-Oh Inspired
 
 <img width="600px" src="https://github.com/camilafbc/bootcamp-ifood-desenvolvimento-jogos/blob/main/js-yugioh-jokenpo/to-readme.gif?raw=true"/>
 
 
-👉 Acesso: 
+👉 Acesso: https://bootcamp-ifood-desenvolvimento-jogos-r8bb.vercel.app/
 
 # Como Explorar Este Repositório
 
