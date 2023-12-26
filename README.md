@@ -6,17 +6,17 @@ Repositório para o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos dis
 
 Durante o Bootcamp Potência Tech iFood, foram explorados diversos conceitos essenciais para o desenvolvimento de jogos, proporcionando uma base sólida para a criação de projetos interativos. Os tópicos incluíram:
 
-* Variáveis e Escopo: Compreensão de como utilizar variáveis e controlar o escopo no desenvolvimento de jogos.
+* Variáveis e Escopo
 
-* Tipos de Dados: Exploração dos diferentes tipos de dados utilizados no contexto de jogos.
+* Tipos de Dados
 
-* Orientação a Protótipo: Introdução aos princípios da orientação a protótipo no contexto do desenvolvimento de jogos.
+* Orientação a Protótipo
 
-* Funções: Utilização de funções para organizar e reutilizar código de maneira eficiente.
+* Funções
 
-* Manipulação de Listas: Trabalho com listas para armazenar e manipular conjuntos de dados no desenvolvimento de jogos.
+* Manipulação de Listas
 
-* Estilização com CSS e Pseudoelementos: Aplicação de estilos visuais aos projetos utilizando CSS, incluindo o uso de pseudoelementos para criar efeitos especiais.
+* Estilização com CSS e Pseudoelementos
 
 # Projetos Desenvolvidos
 
