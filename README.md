@@ -1,6 +1,6 @@
 # <img width="80px" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png"/> Bootcamp Potência Tech iFood - Desenvolvimento de Jogos
 
-Repositório para o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos! Este bootcamp proporcionou uma experiência imersiva no desenvolvimento de jogos, abrangendo conceitos fundamentais e práticos para a criação de projetos interativos.
+Repositório para o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos disponibilizado pela DIO em parceria com o iFood. Este bootcamp proporcionou uma experiência imersiva no desenvolvimento de jogos, abrangendo conceitos fundamentais e práticos para a criação de projetos interativos.
 
 # Tópicos Abordados
 
